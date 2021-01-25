@@ -9,3 +9,7 @@
 - 😄 Pronouns: ... He/Him/You! Over there! Thats right, im talking to you!
 - ⚡ Fun fact: ...  I was intoroduced to coding through the power of CHAOS MAGICKS!
 
+\      /\      /\      /\      /\      /\      /\      /\      /\      /\      /\      /\      /\      /
+ \    /  \    /  \    /  \    /  \    /  \    /  \    /  \    /  \    /  \    /  \    /  \    /  \    /
+  \  /    \  /    \  /    \  /    \  /    \  /    \  /    \  /    \  /    \  /    \  /    \  /    \  /
+   \/      \/      \/      \/      \/      \/      \/      \/      \/      \/      \/      \/      \/
