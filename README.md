@@ -8,3 +8,4 @@
 - 📫 How to reach me: Casting smoke signals, psychic manifestation or by emailing me @ adam.p.manley@googlemail.com
 - 😄 Pronouns: ... He/Him/You! Over there! Thats right, im talking to you!
 - ⚡ Fun fact: ...  I was intoroduced to coding through the power of CHAOS MAGICKS!
+![bottombanner](https://s23527.pcdn.co/wp-content/uploads/2017/04/Great-Observatories-Unique-Views-of-the-Milky-Way-745x372.jpg.optimal.jpg)
