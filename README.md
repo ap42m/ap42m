@@ -1,11 +1,6 @@
-### My Name Is Adam
-
-- 🔭 I’m currently working on a website to host an ARG
-- 🌱 I’m currently learning ... HTML, CSS, and javascript
-- 👯 I’m looking to collaborate on ... beginners projects
-- 🤔 I’m looking for help with ... evrything lmao
-- 💬 Ask me about ... anything and ill convince myself i have an answer
-- 📫 How to reach me: Casting smoke signals, psychic manifestation or by emailing me @ adam.p.manley@googlemail.com
-- 😄 Pronouns: ... He/Him/You! Over there! Thats right, im talking to you!
-- ⚡ Fun fact: ...  I was intoroduced to coding through the power of CHAOS MAGICKS!
+### My Name Is Adam 
+Hello my name is Adam, Thanks For taking the time to have a look at my profile.
+I'm an aspiring software developer. 
+I was given a good introduction to softare development through a 3 month coding bootcamp.
+Since then i have been learning more through resources like the free codecamp, the edx cs50 for more undestanding of the foundations. 
 ![bottombanner](https://s23527.pcdn.co/wp-content/uploads/2017/04/Great-Observatories-Unique-Views-of-the-Milky-Way-745x372.jpg.optimal.jpg)
